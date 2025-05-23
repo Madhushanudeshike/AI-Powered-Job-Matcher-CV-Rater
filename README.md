@@ -39,7 +39,7 @@ This tool is perfect for recruiters, HR professionals, and hiring managers looki
 
 ## Screenshot
 
-![Screenshot of AI-Powered Job Matcher & CV Rater]([YOUR_SCREENSHOT_IMAGE_PATH])
+![Screenshot of AI-Powered Job Matcher & CV Rater](ai-power-cv-match.jpg)
 
 ---
 
